@@ -1,0 +1,23 @@
+{
+    "family": "colmprunty-com",
+    "placementConstraints": [
+        {
+            "expression": "attribute:ecs.os-type == linux", 
+            "type": "memberOf"
+        }
+    ],
+    "containerDefinitions": [
+      {
+        "name": "colmprunty-com",
+        "image": "#{Docker_REPO}/#{AWS_ECR_REPOSITORY_NAME}:#{Octopus.Action[Deploy Package].Package.NuGetPackageVersion}",
+        "cpu": 25,
+        "memory": 25,
+        "essential": true,        
+        "portMappings": [
+          {
+            "containerPort": 5000
+          }
+        ]
+      }
+    ]
+  }
