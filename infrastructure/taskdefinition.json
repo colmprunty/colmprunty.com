@@ -9,7 +9,7 @@
     "containerDefinitions": [
       {
         "name": "colmprunty-com",
-        "image": "#{Docker_REPO}/#{AWS_ECR_REPOSITORY_NAME}:#{Octopus.Action[Deploy Package].Package.NuGetPackageVersion}",
+        "image": "768169984967.dkr.ecr.eu-west-1.amazonaws.com/colmprunty-com",
         "cpu": 25,
         "memory": 25,
         "essential": true,        
