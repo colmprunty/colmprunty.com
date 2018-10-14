@@ -1,23 +1,15 @@
-{
-    "family": "colmprunty-com",
-    "placementConstraints": [
-        {
-            "expression": "attribute:ecs.os-type == linux", 
-            "type": "memberOf"
-        }
-    ],
-    "containerDefinitions": [
+[
+  {
+    "name": "colmprunty-com",
+    "image": "768169984967.dkr.ecr.eu-west-1.amazonaws.com/colmprunty-com",
+    "cpu": 25,
+    "memory": 25,
+    "essential": true,
+    "portMappings": [
       {
-        "name": "colmprunty-com",
-        "image": "768169984967.dkr.ecr.eu-west-1.amazonaws.com/colmprunty-com",
-        "cpu": 25,
-        "memory": 25,
-        "essential": true,        
-        "portMappings": [
-          {
-            "containerPort": 5000
-          }
-        ]
+        "containerPort": 5000
       }
     ]
   }
+]
+  
