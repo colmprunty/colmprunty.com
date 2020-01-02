@@ -31,10 +31,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-plugins_dir:
-  - jekyll-analytics
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-155260331-1
