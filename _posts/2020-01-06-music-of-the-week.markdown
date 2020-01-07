@@ -10,4 +10,5 @@ I've thought a lot about [this article](https://www.talkhouse.com/will-sheff-okk
 Anyway, here's what I've got for the upcoming week:
 
 Classic - [Transformer by Lou Reed](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St)
+
 New - [MAGDALENE by FKA Twigs](https://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY)
