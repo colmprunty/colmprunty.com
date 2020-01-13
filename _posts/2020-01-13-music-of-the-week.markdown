@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Music of the Week - Jan 13"
+date:   2020-01-13 09:34:21 +0000
+categories: music
+---
+
 Week two, here we go.
 
 
