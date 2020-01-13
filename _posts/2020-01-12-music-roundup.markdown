@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Music Roundup 1"
+date:   2020-01-12 20:11:12 +0000
+categories: music
+---
+
 A few words on my first Music of the Week.
 
 ## Transformer
