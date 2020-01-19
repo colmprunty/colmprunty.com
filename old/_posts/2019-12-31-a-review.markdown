@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "2019: A Review"
+date:   2019-12-31 17:08:39 +0000
+categories: general
+---
+At the end of last year I posted this tweet.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2019:<br>365 day <a href="https://twitter.com/duolingo?ref_src=twsrc%5Etfw">@duolingo</a> Chinese streak<br>no sugar<br>&gt;100 <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> commits<br>&lt;40 min 10k<br>get some goddamned sleep<br>watch movies again<br>pet a cat<br>pet a dog<br>less meat, more plants<br>pet a red panda<br>pet a second, different cat<br>vote against the <a href="https://twitter.com/Conservatives?ref_src=twsrc%5Etfw">@Conservatives</a> at every opportunity<br>maybe write</p>&mdash; Colm Prunty (@colmprunty) <a href="https://twitter.com/colmprunty/status/1079820377201803265?ref_src=twsrc%5Etfw">December 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Let's see how I did.
+
+<h3><u>365 day Duolingo Chinese streak</u></h3>
+
+I only realised in the typing of this that I actually have a 362 day streak, and that's because of the couple of times the streak freeze kicked in. Turns out the freeze preserves your streak, but doesn't bump the number, which is fair enough I suppose. Those were all times that I had actually done the thing, but Duolingo decided later on that I hadn't, so that's on them. Yes, some days I phoned it in, but I did it every day. 
+
+![The streak](/images/duolingo.png)
+
+It's a good starting point, this year I also did two [HSK](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi) exams, and passed level 1 with 100% (damn!) and level 2 with 89.5%. Onwards and upwards.
+
+<h3><u>No sugar</u></h3>
+
+Obviously, this means chocolate, sweets, doughnuts, et cetera, and not things like the sugar inherent in bananas. On that, it was a pretty big success of 11.9 months until Christmas in my parents' house. But that exists outside of time and space anyway, so I'm starting again tomorrow for year two.
+
+<h3><u>100 Github commits</u></h3>
+
+Yeah, I got a new job that started in February so this fell down the pecking order a bit. Nonetheless, setting up this blog actually bumped up the numbers a bit so kudos to me.
+
+![mostly empty github graph](/images/github.png)
+
+I guess that's another thing I did this year, got a new job. It's going pretty well, I've not been canned yet.
+
+<h3><u>Under 40 minute 10k</u></h3>
+
+So in a purely technical sense, at the Vitality 10k in May.
+
+![A good 10k result](/images/10kgood.png)
+
+But officially, strictly speaking, at the Vitality 10k in May. It was more like 10.2km.
+
+![A bad 10k result](/images/10kbad.png)
+
+Also later in Fulham in November, well on track at the half way point, then my hip gave out and I haven't run since.
+
+![A worse 10k result](/images/10khip.png)
+
+While I'm here, I gave myself a goal of <90 minutes for the Amsterdam Half, and, well, in a purely technical sense...
+
+![A good half marathon result](/images/halfgood.png)
+
+And yet, in the _official_ result because it ran long...
+
+![A bad half marathon result](/images/halfbad.png)
+
+FFS
+
+<h3><u>Sleep</u></h3>
+
+Well, looks like Garmin don't give you stats averaged for a year, but sleep has been good, since I've been going to bed at 10 - 10:30. 
+
+<h3><u>Watch Movies Again</u></h3>
+
+2018:
+
+![Not many movies](/images/movies2018.png)
+
+2019:
+
+![Many movies](/images/movies2019.png)
+
+That went well. I've also written a bunch about them because I love logging stuff here on [Letterboxd](https://www.letterboxd.com/colmprunty/).
+
+<h3><u>Pet a cat</u></h3>
+
+Goddamn right
+
+![Jonesy](/images/jones.jpg)
+
+Jones, above, had three teeth extracted just before Christmas and I'm about to take him to the vet today, new year's eve, to make sure his mouth is in working order. He's pretty much fine though, it hasn't curbed his lust for food in any way.
+
+<h3><u>Pet a dog</u></h3>
+
+Not pictured, but I petted as many as several dogs.
+
+<h3><u>Less meat</u></h3>
+
+This went pretty well too, a lot of falafel, halloumi and tofu. Beef has been entirely gone for years.
+
+<h3><u>Pet a red panda</u></h3>
+
+Well, I _saw_ a red panda in Amsterdam, so I'll have to take it. 
+
+![Red panda](/images/redpanda.png)
+
+<h3><u>Pet a second cat</u></h3>
+
+Yeah!
+
+![Ripley](/images/ripley.jpg)
+
+Ripley also had health things this year, she got an ear infection in July that meant I had to sit on her to keep her still while I swabbed out her ear and squirted disinfectant on it. She _hated_ it. She's mostly fine now, but the cleanings will continue until morale improves.
+
+<h3><u>Vote against the Conservatives</u></h3>
+
+Good news: I didn't think I'd get to do this, but I did!
+
+Bad news: made no fucking difference, those vicious monsters remain our overlords for the foreseeable. 
+
+<h3><u>Maybe Write</u></h3>
+
+I knocked out seven pages of a screenplay in August until my Final Draft trial expired and I looked up what it would cost to actually continue using it. I didn't come up with a title, so at the moment it's known only as _Falling Asleep Guy_. I also wrote about three hundred words of fiction while in Dublin over Christmas, possibly because I feel the lack of creative output stinging as the year ends. 
+
+Also started this blog, albeit at the last minute.
+
+<h3><u>Couple more stats</u></h3>
+
+I biked to work as much as I could be arsed if I was awake enough and it wasn't wet. In doing that, I racked up 2,140km in the year and saved £755. 
+
+Wasn't a heavy running year, due to laziness at the beginning, and injury at the end, but I did a decent amount in the middle and ended up on 971km for 2019. I'm a little bit tempted to go out and do 29km before midnight, but not actually.
+
+I'm still using last.fm like it's 2008, and listened to 3,499 tracks this year. Top artist, Okkervil River, but only because I listened to The Silver Gymnasium a lot in December. Top album was Vampire Weekend's Father of the Bride, which I really did like a lot, but I feel like Spotify made it my album of the year because it has about 45 tracks.
+
+That's it, tune in tomorrow for some resolutions!
