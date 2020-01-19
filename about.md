@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About</h1>
-	<p>This is the about page</p>
-</div>
+About this!
