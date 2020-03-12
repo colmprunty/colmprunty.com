@@ -18,3 +18,5 @@ Working from home will be a challenge if the schools and childcare facilities sh
 Football will probably stop soon. I feel a little bad for Liverpool. 
 
 We're all supposed to fly to Dublin in three and a half weeks for Easter. I guess if _both_ countries have the plague, then it doesn't really matter which one we're in. 
+
+There's also a massive economic crash happening almost in the background, and today is my birthday.
