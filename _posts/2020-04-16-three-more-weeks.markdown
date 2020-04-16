@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Three More Weeks of Lockdown"
+date:   2020-04-16 18:24:50 +0000
+categories: covid19
+---
+
+I went to Sainsbury's the other day for bread and milk. There was a queue outside and a bouncer at the door. Everyone was lined up with two metres between them, the shop operated a one-in-one-out policy. There were two large posters outside, one outlining the distancing policy, one imploring people not to horde goods. I was twelfth, but it took less than ten minutes to get in. Inside was pretty well stocked. The toilet paper crisis seems to have abated, and we've moved on to the flour and egg crisis. Everyone was eyeing each other awkwardly, the aisles far too narrow to keep the appropriate distance apart. The self checkouts were only enabled for alternate machines, so you don't have to get too close, and the human checkout had a large plastic screen set up to prevent the virus from jumping onto the cashier. You leave your items, then walk back. The cashier rings it up, then walks back. You pay, and then walk back home. I'd consider that a quick and successful grocery shopping. 
+
+We've been in lockdown here in the UK for nearly four weeks, and human sack of corned beef Dominic Raab has announced another three at least. I don't mean to give the impression that I disagree with the policy, just the messenger could stand to be a bit more appealing. Raab and one-off Priti Patel represent the worst, Matt "Hatt Mancock" Hancock is probably the most tolerable, Rishi Sunak just appears like a genie to hand out money. I even tolerate Michael Gove, though with a teacher in the house I shouldn't say that too loudly. Boris will return at some point, after shaking hands with infectious Covid-19 patients shockingly landed him with a hefty dose of Covid-19. 
+
+The last time I used public transport was at least six weeks ago. On March 11, I was in the office for the last time, although I didn't know it. I got called home because the Child had a fever (not even super worrying at that point, I just remember thinking great, I'll have to isolate for a fortnight). Later that day she was fine. The next day was my birthday, off work. Friday came mandatory work from home. I've not been back in central London since. 
+
+Working from home with a toddler toddling about the place is kind of horrendous. I am, in general, a victim of distraction, and I make generous use of noice cancelling headphones, pomodoro timers, Trello boards, and that's when things are quiet and well-organised. Now, there's an unending stream of "what you doing?", being handed markers, stuffed animals, "I want to read a book" aka "read me a book", and that's without even going into the crying, the moaning, the further crying, the potty. W, bless her, is taking care of the bulk of the child stuff, but I get about two hours of concentration a day. My "desk" is the living room table, and my back is slowly collapsing from sitting on a dining room chair all the time.
+
+Nonetheless, we're having a second one in October. If this blog is how you're learning about it for the first time, sorry! I don't see people any more. Send me a message, say hi. Anyone who was dying to know about [secret resolution #6](https://blog.colmprunty.com/blog/resolutions/) can now rest easy.
+
+The only time I go outside now is to go to the shops every couple of days (7:30am is the best, huge queues at lunch), and to run. My hip injury is more or less fully healed now, so I can get into a decent rhythm training for nothing in particular. All races are cancelled until at least September, and I can't completely see Paris allowing a gathering of twenty five thousand people that soon. Could be the beginning of the second wave of infections by then. 
