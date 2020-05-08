@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Bye bye 2019"
-date:   2019-12-30 18:36:13 +0000
-categories: general
----
-This is basically a test, I'll be back with some new year stuff tomorrow.

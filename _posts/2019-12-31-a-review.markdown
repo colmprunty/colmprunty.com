@@ -14,7 +14,7 @@ Let's see how I did.
 
 I only realised in the typing of this that I actually have a 362 day streak, and that's because of the couple of times the streak freeze kicked in. Turns out the freeze preserves your streak, but doesn't bump the number, which is fair enough I suppose. Those were all times that I had actually done the thing, but Duolingo decided later on that I hadn't, so that's on them. Yes, some days I phoned it in, but I did it every day. 
 
-![The streak](/images/duolingo.png)
+![The streak](/assets/img/duolingo.png)
 
 It's a good starting point, this year I also did two [HSK](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi) exams, and passed level 1 with 100% (damn!) and level 2 with 89.5%. Onwards and upwards.
 
@@ -26,7 +26,7 @@ Obviously, this means chocolate, sweets, doughnuts, et cetera, and not things li
 
 Yeah, I got a new job that started in February so this fell down the pecking order a bit. Nonetheless, setting up this blog actually bumped up the numbers a bit so kudos to me.
 
-![mostly empty github graph](/images/github.png)
+![mostly empty github graph](/assets/img/github.png)
 
 I guess that's another thing I did this year, got a new job. It's going pretty well, I've not been canned yet.
 
@@ -34,23 +34,23 @@ I guess that's another thing I did this year, got a new job. It's going pretty w
 
 So in a purely technical sense, at the Vitality 10k in May.
 
-![A good 10k result](/images/10kgood.png)
+![A good 10k result](/assets/img/10kgood.png)
 
 But officially, strictly speaking, at the Vitality 10k in May. It was more like 10.2km.
 
-![A bad 10k result](/images/10kbad.png)
+![A bad 10k result](/assets/img/10kbad.png)
 
 Also later in Fulham in November, well on track at the half way point, then my hip gave out and I haven't run since.
 
-![A worse 10k result](/images/10khip.png)
+![A worse 10k result](/assets/img/10khip.png)
 
 While I'm here, I gave myself a goal of <90 minutes for the Amsterdam Half, and, well, in a purely technical sense...
 
-![A good half marathon result](/images/halfgood.png)
+![A good half marathon result](/assets/img/halfgood.png)
 
 And yet, in the _official_ result because it ran long...
 
-![A bad half marathon result](/images/halfbad.png)
+![A bad half marathon result](/assets/img/halfbad.png)
 
 FFS
 
@@ -62,11 +62,11 @@ Well, looks like Garmin don't give you stats averaged for a year, but sleep has 
 
 2018:
 
-![Not many movies](/images/movies2018.png)
+![Not many movies](/assets/img/movies2018.png)
 
 2019:
 
-![Many movies](/images/movies2019.png)
+![Many movies](/assets/img/movies2019.png)
 
 That went well. I've also written a bunch about them because I love logging stuff here on [Letterboxd](https://www.letterboxd.com/colmprunty/).
 
@@ -74,7 +74,7 @@ That went well. I've also written a bunch about them because I love logging stuf
 
 Goddamn right
 
-![Jonesy](/images/jones.jpg)
+![Jonesy](/assets/img/jones.jpg)
 
 Jones, above, had three teeth extracted just before Christmas and I'm about to take him to the vet today, new year's eve, to make sure his mouth is in working order. He's pretty much fine though, it hasn't curbed his lust for food in any way.
 
@@ -90,13 +90,13 @@ This went pretty well too, a lot of falafel, halloumi and tofu. Beef has been en
 
 Well, I _saw_ a red panda in Amsterdam, so I'll have to take it. 
 
-![Red panda](/images/redpanda.png)
+![Red panda](/assets/img/redpanda.png)
 
 <h3><u>Pet a second cat</u></h3>
 
 Yeah!
 
-![Ripley](/images/ripley.jpg)
+![Ripley](/assets/img/ripley.jpg)
 
 Ripley also had health things this year, she got an ear infection in July that meant I had to sit on her to keep her still while I swabbed out her ear and squirted disinfectant on it. She _hated_ it. She's mostly fine now, but the cleanings will continue until morale improves.
 
