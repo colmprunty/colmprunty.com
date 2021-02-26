@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Sleep Routine"
+date:   2021-02-26 21:26:28 +0000
+categories: general
+---
+
+The baby is now almost five months old. He is still a large boy, surpassing the bigger cat fairly quickly. He still sleeps reasonably well, though of late he's been waking in the hour or two after being put to bed with this enraged shrieking that vibrates the walls and my skull with the same resonance. It's loud, is what I'm saying. His being in my bedroom adds a new step to my everyday (everynight) routine. Now, instead of sleeping peacefully through the night in my own bed, I get woken up by an abrupt, upset spluttering noise somewhere in the region of 2am. When this happens, I change a nappy and shuffle out to the living room couch to try and get enough sleep to be a functioning human for work the next day. Once there, I am at the whims of its feline residents: Jones and Ripley. If they are already asleep on the couch, I basically have to accommodate them, fold it out and sleep on the edge. If I try and assert my human superiority by, for example, picking them up and moving them out of the way, they will retaliate by wandering around the room for hours, aggressively licking themselves next to my head, or straight up jumping onto me from the nearest height. Not worth it. If they're sleeping on some other piece of furniture, I'm generally safe until they decide it's time for breakfast, usually circa 6:30am. They let me know this by wandering around the room, aggressively licking etc. All the stuff I mentioned before except this time louder and at high speed. If I don't get up and feed them sharpish, they inevitably wake the three-year-old, who is then terminally up, and haunts the corridors until I concede that my day is no longer upcoming, and in fact started a half hour previously.
+
+Then I commute the 85cm to work.
