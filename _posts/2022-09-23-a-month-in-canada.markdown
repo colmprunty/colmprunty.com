@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "One Month"
+date:   2022-09-23 20:12:47 +0000
+categories: general, canada
+---
+
+So it's been a month. My lovely colleagues gave me a Toronto CityPass on my way out the door, so we spent the first week doing stuff. Up the CN Tower, into the Royal Ontario Museum (mostly the dinosaur section), around the Science Centre, through the Aquarium (some good sharks). Since then, it's mostly been work and admin. The wallet that I don't carry around is filling up; my PR card arrived after nearly six months, I have a health insurance card, a library card, and if I'm lucky tomorrow I will have a (piece of paper indicating that I will soon be in possession of) a driver's license. This of course means that I then have to drive, which still makes me nervous. Cars are loud and fast, and I keep having dreams where I roll one down a hill, or a child is driving and she rolls one down a hill. I haven't driven since pre-COVID, and while I was doing it that was mostly fine even if it did occasionally spike the heart rate. At least we're in the suburban dead zone where there's a whole maze of streets to trundle around and get used to things, where I won't see another vehicle or human being. Just gaudy houses, lots and lots of flowers, and house numbers written out in words. 
+
+I'm also moving to a different team in work, in lieu of getting a new job. I get all the benefits of being the new guy, not knowing what's going on, being fully remote in a different time zone, but at least I don't have to get any new equipment. It reminds of being in Japan initially, lost in Japanese language Visual Studio 6 and never really getting to grips with anything before the world economy collapsed and I got cut loose. It reminds me as well of my first job in the UK in 2011 where I had convinced them that I knew how to code and then had to stay one step ahead of myself to avoid being found out. That one went a little better, ultimately. 
