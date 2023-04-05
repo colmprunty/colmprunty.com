@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Twin Pillars of Fear"
+date:   2023-04-03 21:14:12 +0000
+categories: general
+---
+
+Probably the most dramatic title I could have given this. Here are two things that have been keeping me awake at night, other than children waking up at random hours, and the heat being on way too high.
+
+AI. Will it take my job? It might? I've read convincing arguments on both sides. On one hand, there will be an AI that can churn out an entirely working software system, fix all of its own bugs, and write its own tests. This leaves me sitting on my hands somewhat. Like my normal workday, but I don't get paid for it. I used ChatGPT professionally last week, to sort out the syntax of a NodeJS function to do JWE encryption. It churned it out immediately without me really having to know what an elliptical curve was. That's scary. On the other hand, in order to write the correct software, you have to know what you actually want to write, and an increasingly large amount of time on the job is figuring out what to write. Talking to people, talking to (God help me) _customers_ who don't even know what they want, figuring out what's actually legal. The writing-code part of it is actually pretty easy once you've gotten that done, and an AI helper at that point could make productivity skyrocket. I do want to try [Copilot-X](https://github.com/features/preview/copilot-x) even if it eliminates the need for me to remember how to hand-write escaped serialized JSON (I did this a lot one day and now have forgotten how to do it). 
+
+This is something I am not going to worry about right this minute.
+
+The second thing is holy shit have you seen how many companies are just firing people left and right? I just took out a huge mortgage! If I lose my job I am _fucked_. Just want to write that down. The (and this might be the most grown-up phrase I will ever use) prevailing macroeconomic conditions look like they'll be bad for a while. There's a storm to be weathered. On the other hand, I have a job right now, it seems to be going pretty well. So. 
+
+This is something I am not going to worry about right this minute.
+
+I'll worry about these things when I wake up in the middle of the night.
