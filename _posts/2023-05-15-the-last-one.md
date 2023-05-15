@@ -7,8 +7,6 @@ categories: fiction
 
 Here is [a pdf](./ywtlo.pdf) if that's the kind of thing you're into. 
 
-# You Were The Last One
-
 ## Prologue
 
 On the last day the two of them sat at a table inside a small wooden shelter. Wind cut through the gaps in the beams, and the rise and fall of it made conversation difficult. Outside was dust, and the skeletons of trees. Some of the others wondered what they were doing in there, some suspected, most had their own concerns.
