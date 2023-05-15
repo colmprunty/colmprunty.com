@@ -5,7 +5,7 @@ date:   2023-05-15 13:24:26 +0000
 categories: fiction
 ---
 
-Here is [a pdf](./ywtlo.pdf) if that's the kind of thing you're into. 
+Here is [a pdf](/assets/img/ywtlo.pdf) if that's the kind of thing you're into. 
 
 ## Prologue
 
