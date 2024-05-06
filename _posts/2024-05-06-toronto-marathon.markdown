@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Toronto Marathon 2024"
+date:   2024-05-06 12:23:28 +0000
+categories: running
+---
+
+My alarm went off at 5:30am. I could hear the rain outside. Both cats and one child sprung awake immediately because I, their servant, had moved and therefore was ready to do tasks for them. Auspicious. 
+
+I got on the bus at 6am, and it was completely rammed. Not with runners, but with people going to jobs that start early; way earlier than the TTC starts at 8am. So I stood up for the 55 mins across the Danforth and up Yonge until we got to Sheppard and out into the rain again. My first consideration at any race is where I can pee. Sorry, readers. The organisers had emailed saying the Sheppard Yonge Centre - a shopping mall - would be open from 6am so I tried there first. Unfortunately, several hundred people had the same idea and I only had 20 minutes before the start so I bailed out after five minutes in a queue that didn't budge forward at all in that time. However, since everyone had decided that the shopping centre was the obvious, first, only place to go, the queue for the portaloos was the smallest I've ever seen. Mission accomplished.
+
+The rain cleared off a bit at the very start. I had been telling people my goal was under 3:05, but let's be real, it was under 3:00 and I started with this in mind. I tried to compartmentalise the race into blocks of 5km. There's only 8 of them (plus a bit), how hard can it be. The first was a breeze, just cruised it, well under the allotted time. Kilometre six was uphill for its entirety, and the heavens opened for another five or ten minutes when I got to the top of it, so I lost a little time there. No bother, there were undulations but really a lot of downhill in the first half. The 5-10km section was fine, the 10-15km section was fine.
+
+The markers on the road were getting a little wacky, distance-wise. In particular, the 20km marker came a full 400m after the GPS on my watch said I had run 20km. Incidentally, I ended up, by GPS, doing a marathon + 400m so maybe it all worked out after all. The 20-25km section was fairly straightforward too. In fact, I ended up with a half marathon PB (1:26:34).
+
+Things started to get a bit tricky then. Maybe I'd gone out too fast, maybe I was under-fuelled, but as I got up past 27, 28km my brain started to nudge me and say things like, hey you have _fifteen_ kilometres to go. How are you feeling? Ok, but not great, brain. Can you sustain this? Maybe. I took my compartmentalisation down to 1km chunks. If I can keep each individual one to around the 4:14/km goal, I've definitely built up enough buffer in the first half to make it through. My brain kind of filtered out that 400m GPS difference. 
+
+Looking at the numbers, I didn't drop a target until km 34, and that was done in 4:15. This was the beginning of the end though. This last, long stretch was done out and back along the Martin Goodman Trail, a winding bike and pedestrian track. Not closed off to the public, full of randos out rando-ing around and _also_ the tail end of the 5 and 10km races. It was really quite demoralising, didn't feel climactic at all, loads of people strolling around, jogging slowly, checking phones. 
+
+The turnaround, before heading back in towards the city, was just before km 35. By then I was toast. I had to go back where I came from, back around the curving trail, legs starting to cave in. You have _seven kilometres_ to go, said my brain. Half an hour! We eventually got diverted off the trail onto a proper actual road. I started to shut down, my splits became 4:27, 4:36, I did km 41 - the second last one, ffs - in 5:07. The buffer slowly eaten away. I stopped running entirely four or five times in this sequence and just held my face in my hands. Strangers passing me out patted me on the back. One more kilometre felt impossible. Two more? Three more? Never. 
+
+Once I somehow passed the 41km marker I knew I had just one, one single kilometre (plus the last 200m, plus the 400m GPS delta, but ignore that) to go so I just ran it, didn't go anywhere near pace, but didn't stop. Turned a corner and saw the finish line approach. Crossed it. Stopped. It took my two seconds to raise my arm and stop my watch and when I did, it said 3:00:09.
+
+Honestly I can't complain. It's obviously a frustrating time; remember that one km that was 5:07? But really, I knocked eight minutes off my PB, and I had absolutely nothing left to give. It's not like I stopped to tie my lace or take a photo, this was the full, maximum effort I had and while not quite enough for a milestone to brag about, it's still pretty good.  
