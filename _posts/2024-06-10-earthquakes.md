@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ireland Doesn't Get Earthqyakes"
+title:  "Ireland Doesn't Get Earthquakes"
 date:   2024-06-10 21:55:01 +0000
 categories: fiction
 ---
