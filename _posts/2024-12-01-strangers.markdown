@@ -9,13 +9,13 @@ Newly armed with a Criterion Channel subscription for the year, it's back to the
 
 Guy Haines is a tennis player with a wife that won't let him get divorced, and Bruno - complete with a tie clip that spells out his name - has a father with lots of money who just won't hurry up and die. Guy kind of nervously participates in the conversation and, on finishing, Bruno basically goes straight to the funfair where Guy's wife Miriam is hanging out with two dudes, follows her through the tunnel of love out into a lake onto an island and strangles her to death. Abrupt. I thought he'd maybe plan a little bit, but that's not how we operate. He goes back to Guy and says, hey, I've done it, you're up, here's a key to my dad's house and a very crude, childlike map of how to go in and murder him. 
 
-![what a great map](strangers-map.png)
+![what a great map](/assets/img/strangers-map.png)
 
 Guy wants to marry a senator's daughter, who isn't much use or very memorable, but she has a sister Barbara who is the 1950s equivalent of a true crime podcast fanatic and has all the best lines and puts the whole thing together. (She's also played by Alfred Hitchcock's daughter). In a bizarre scene later on, Bruno is demonstrating to an old lady how to strangle someone to death, by strangling her to death, and he catches sight of Barbara. She reminds him of Miriam - they both have glasses, you see - and so he comes quite close to murdering this old lady in the middle of a swanky party. He gets away with it by passing out and making him, somehow, the victim.
 
 The crux of this thing is trying to make you believe that Guy, who knows exactly who murdered his wife and why, won't just go to the police and tell them that. I think it just about pulls it off, the main justification being, if you guys didn't plan this together, why would he do it? That's an insane thing to do. You must be in on it. Nobody _really_ suspects Guy of having done it, so the movie plays up a little bit of the temptation he could have had to actually murder Bruno's dad and seal the whole pact. It was never on the cards, really, though, even if they try and do a little fake tension by having him in fact follow (successfully) the map from up above into the bedroom only to find... Bruno, under the covers, fully dressed in formal wear, expecting this for some reason. 
 
-![dressed in a tux even](bruno-bed.png)
+![dressed in a tux even](/assets/img/bruno-bed.png)
 
 Bruno realises that Guy may not be into spontaneously murdering a stranger, so he decides to wind things up by planting Guy's lighter at the murder scene. This is several days later, after the police have seen it, and lots of fairground-goers have gone to have a gawk, so not the best plan in the world, but it's sufficient to freak Guy out. 
 
