@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Frankenstein (1931)"
+date:   2024-12-06 20:22:44 +0000
+categories: movies
+---
+
+Hard to separate this from the sheer cultural ubiquity of it. Ever seen someone on a screen shouting, it's alive! It's alive! Here it is. A village carrying flaming torches to go see off a monster? A hunchback assistant doing his master's bidding? Yep, that's from here too. The big, flat-headed, bolts-in-neck monster lumbering around? You got it. 
+
+The movie itself is mostly a chopped down version of the book (credited to "Mrs. Percy Shelley", oh dear) with the big departure being that the Monster is not an articulate philosopher, but rather a big lumbering child. Frankenstein himself is "Henry" here, apparently calling him Victor would be too off-putting for Americans (though his best friend is confusingly called Victor). In the US version of the Ring, Naomi Watts' first scene is her being a dick to her child, I read because they wanted her character to come off as unlikeable at the start and then grow on us over the course of the movie. Henry and his not-Igor assistant are robbing graves and cutting down bodies from the gallows at the beginning, which is a deeper well (ha) to climb out of. Henry doesn't want a brain directly from a corpse, but one from a jar is apparently fine so he goes and dispatches Fritz (not Igor) to a medical school to go and get one. Hilariously, he smashes the jar labeled "Normal Brain" after being scared by a wacky skeleton and so just grabs the one sitting next to it, "Abnormal Brain". I'd argue that this doesn't make any difference, the Monster turns out to be sensitive and sympathetic, and while it kills a bunch of people, that's more out of naivete and self-defence than anything else. Anyway.
+
+We get the big set piece that everyone has just absorbed into their being by now, a body under a sheet being lifted up on a hoist towards a storm, twitching (it's alive!) and moving. The Monster at the beginning is quiet and calm, and listens to requests to sit down, until that absolute dickhead Fritz bursts in waving a flaming torch around trying to beat him with it. Who is the real monster? Frankenstein and his professor buddy decide to kill the monster - the more I write this, the harsher it seems - and just at the point of it happening, he wakes up, kills the professor, and legs it.
+
+He meets a small child, Maria, throwing flowers into the lake to watch them float, and - this is bad, I'll grant you - he throws _her_ in and she in fact does not float. This is followed by a genuinely upsetting scene of her father carrying her corpse through the entire village celebrating Frankenstein's wedding as everyone gradually notices and follows him to the Mayor's office (I can't bring myself to say Burgermeister). Not a lot of movies do dead children, so it still has bite, nearly a hundred years later.
+
+So the torches come out, Frankenstein and the Monster get trapped together in a windmill. A very obvious dummy Frankenstein gets hurled off the top, gets bashed on a... wing? What are the spinning bits of a windmill called. Clearly dead, until a hasty rewrite for a happy ending brings him back for a marriage/sequel. The Monster himself is burned up in the windmill, definitely dead, never to be seen again. Probably. 
