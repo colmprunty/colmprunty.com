@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Boston Marathon 2025"
+date:   2025-04-26 11:23:36 +0000
+categories: running
+---
+
+### Training Highlights
+
+The Boston Marathon was on April 21, Easter Monday. I started training "officially" on December 16, in that that's when the 18 week plan started. The Canadian winter was, mostly, brutal. Here's a few highlights.
+
+- On [Christmas Day](https://www.strava.com/activities/13187638431) I was in Dublin and ran 18km up and around Howth. Decent pace, chose this time not to go along the narrow trails around the cliffs. Well set for Christmas dinner.
+
+- On [New Year's Eve](https://www.strava.com/activities/13229525657) I did a little half hour getting smashed by wind and rain. 
+
+- On [January 18](https://www.strava.com/activities/13390609113) I did my first decent length marathon pace run, 17.5km. Went well, kept pace, weather was still very rough.
+
+- On [January 20](https://www.strava.com/activities/13410423313) it was -20. 
+
+![Wrapped up](/assets/img/wrappedup.jpg)
+
+- On [February 15](https://www.strava.com/activities/13635044127) I did the next marathon pace run, it was supposed to be 21km but on turning around into freezing headwind grinding the skin off my face, I couldn't hack it and slowed right down. Even walked a bit. This worried me a little, was it the weather or was it me? (In hindsight, pretty sure it was the weather).
+
+- I spent a week on the treadmill in February because there was too much snow on the ground to actually move, and too much ice to stay upright if I actually managed it.
+
+![All the snow](/assets/img/allthesnow.jpg)
+
+- On [March 13](https://www.strava.com/activities/13870947250) we were in Peterborough, ON just to go somewhere and get out of the house. Horrific night's sleep, full from a weird spaghetti meal, one child sick and making noise all night, the other kicking me in the back (also it was my birthday). Nonetheless I dragged myself out of bed the next day and ran a half marathon. It was -6.
+
+![It looked nice though](/assets/img/peterborough.jpg)
+
+- On [March 15](https://www.strava.com/activities/13889187356), two days later, I had a 26km marathon pace run and nailed it. Confidence back up. A half marathon PB on my second half marathon in three days. 
+
+- On [April 20](https://www.strava.com/activities/14232424058) I took a little jog around the Charles River in Boston.
+
+### Race Day
+
+Not much happened in the couple of days before the race. I walked a bit too much, probably. It was hard to find an open supermarket on Easter Sunday. Then it turned out my hotel put out a spread of free bananas and granola bars and whatnot on race morning anyway. After last spring's dramatic wall-hitting in Toronto, due to not fuelling at all during the race, and shortly afterwards finding out I was severely anaemic, I had energy gels in my pockets and nine months worth of iron supplements sloshing around my bloodstream.
+
+Monday, my alarm went off at 5:45am. I was already awake. I'd been sleeping badly, due to a combination of general nerves, a pillow that was simultaneously too soft and too hard, and digesting the immense amount of carbohydrates I'd shoved into myself in the preceding 48 hours. I shoved some more in on waking, rolled myself downstairs and hopped onto the hotel shuttle to Boston Common, where the circus starts. Dropped off my bag into the window of a big yellow school bus, and said goodbye to my phone, and walked over to the _next_ bus. Boston is a point to point race in that you start in the middle of nowhere in Hopkinton, MA and then run basically a straight 42.2km line to Boston. This of course means that you have to get to the start line in the first place. So another line, another school bus, and then an hour's drive west. I ate a bit, and chatted to the guy next to me who had flown in from Singapore for this thing. Most marathons start early, but it was already after nine when I got there. It was getting warm.
+
+"Athletes Village" is a big canopy and a series of smaller canopies set up in the back of a high school. Some people run laps around the baseball field to warm up. I did not spend much time there, but I bagged some free sun cream and ibuprofen, and deposited for donation a hoodie I had bought for $10 for this exact purpose and worn for a total of three and a half hours. The red bibs - the fast people - were already on the move when I got there. The white bibs - the still reasonably fast people, including me - were out next. 
+
+There's a kilometre or so from the field to the start line, a nice (and the only) way to warm up. So I jogged it, skipped around, stretched, and lined up at the very front of the second wave. I watched some old guy fumble with and nearly drop the starting pistol, and we were off. My first commandment, the thing everyone says, is not to go out too fast. My goal pace was 4:10/km and in the first few kms I was getting 4:05, 4:06. Is that too fast? Time will tell. 
+
+Then for a long time nothing happened. I mean, I kept running in a straight line, but nothing interesting happened. I felt fine. My pace was like a metronome, still 4:05, plus or minus a few seconds. I guess it wasn't too fast. Around the halfway point is Wellesley College, where several hundred girls scream at you and hold out hands for high fives. My pace mysteriously increased by 10s/km here. Boston is notorious for having hills, but those hills are notorious for not appearing until after the 30km mark when one is traditionally a bit tired. My second commandment, the other thing everyone says, is to not force the hills. Run it by effort, not pace. That translates as, you'll be slower, live with it, shut up. I did not entirely follow this commandment because I was never sure I was in _the_ hills. They never seemed that bad. There were a few of them, I got a bit slower. Every uphill that was a bit arduous had a downhill that was a breeze; it all evened out, my pace graph remained flat (hello, 4:05 plus or minus a few seconds). Eventually there was a sign congratulating me for summiting Heartbreak Hill. That was it? How much of this thing is left?
+
+About 7km was the answer, so there, around the 35km point I decided to throw in everything I had left. The hard part is over. It was all downhill from there, literally, and I was pushing the pace to 3:50/km, blasting past dozens, hundreds of others. Those final 5km, 37-42 was under 20 minutes. It made me think back to doing Parkrun in London, 2017-18, where I could just about sustain that pace for 3km total before wheezing across the line. It took me years to break sub-20 and now look at this shit. I'm doing it by accident. 
+
+My public goal was under 3 hours, my secret I-think-I-can-do-this-but-don't-tell-anyone goal was 2:55. I crossed the line in 2:52:29. The whole thing was so perfectly executed I can't even make more than a couple of paragraphs about it and those paragraphs aren't even interesting. Had a plan, did the plan, the plan went well. Back of my legs got pretty sunburned, though. 
+
+![Nailed it](/assets/img/finished.jpg)
