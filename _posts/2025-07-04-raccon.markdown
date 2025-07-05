@@ -17,7 +17,7 @@ I figured it would go away so I went back to work. It continued to scrabble arou
 
 After a while I managed to lure it down the side of the house with some cat food, where I have seen (full size) raccoons wandering about. Story over?
 
-  <video src="https://github.com/colmprunty/colmprunty.com/raw/refs/heads/gh-pages/assets/img/raccoon4.mp4" data-canonical-src="hhttps://github.com/colmprunty/colmprunty.com/raw/refs/heads/gh-pages/assets/img/raccoon4.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://github.com/colmprunty/colmprunty.com/raw/refs/heads/gh-pages/assets/img/raccoon4.mp4" data-canonical-src="hhttps://github.com/colmprunty/colmprunty.com/raw/refs/heads/gh-pages/assets/img/raccoon4.mp4" controls="controls"  style="max-height:640px;justify-content: center"></video>
 
 It's very hot at the moment so I've been watering the plants at night so it doesn't immediately evaporate. So at 10pm I go outside and am greeted by a familiar squeaking as my new friend runs towards me. This is now thirteen hours it's been hanging around. It's extemely adorable, very lost, and it's very hard for me to not try and pet it.
 
