@@ -5,7 +5,7 @@ date:   2025-07-28 21:44:02 +0000
 categories: fiction
 ---
 
-## 0. The End
+### 0. The End
 
 Lorna had long since forgotten about the extinction of the human race. She saw them destroy themselves multiple times over, only to crawl up from piles of radioactive debris and stagger on, build it all back, then find some new way of ruining it. The sun, oblivious, gradually heated up, evaporating all the water on the surface billions of years before expanding into a red giant and incinerating the planet and leaving behind a dead, blasted rock. Humanity had tried, but you can’t beat the sun. Even the sun couldn’t beat the sun. 
 
@@ -31,7 +31,7 @@ Maybe it would start from the start again. Maybe she’d meet God.
 
 Maybe she could wrap it up and head home. 
 
-## 1. 2025
+### 1. 2025
 
 The stranger knocked on the front door and his distorted image waved when Craig put his eye up to the peephole. Craig didn’t recognise him, and wondered if it was too late to pretend not to be home. He didn’t need this kind of hassle at whatever time it was, not on a Tuesday, not at his age. 
 
@@ -121,7 +121,7 @@ Geoffrey said nothing in response to this and both men waited a beat.
 
 “Let’s go then,” said Craig. 
 
-## 2. 1987
+### 2. 1987
 
 The hedge was far too tall to see over, so they collided as they emerged from either side at the same time. Lorna’s balance went from under her and she landed heavily sitting down, while the boy wheeled his arms around and took a few steps backwards, successfully righting himself. The contents of Lorna’s purse rolled out, down the kerb, onto the road. 
 
@@ -363,7 +363,7 @@ He bit the inside of his cheek, found out.
 
 “Alright let’s do it now.”
 
-## 3. 2025
+### 3. 2025
 
 They paused at the door of number six. 
 
@@ -433,7 +433,7 @@ Craig slipped his phone out again. No signal. He glanced, subtly, he thought, in
 
 Geoffrey took out a key and held it out. Craig swiped it out of his hand and turned to the door. 
 
-## 4. 1987
+### 4. 1987
 
 Two men arrived. They were dressed in suits, slightly dishevelled from urgency, one was carrying a bag which clanked with metal and glass. They marched wordlessly up the stairs, past the doors of every other unused flat, and arrived at the top landing.
 
@@ -571,7 +571,7 @@ Geoffrey came back out.
 
 “We can go now,” he said. “I know enough. I’ll come back later.”
 
-## 5. 2025
+### 5. 2025
 
 Flat number six was in complete darkness, the only source of light was from the landing when the door was opened. It was all one room, rectangular, no alcoves or hidden spaces, completely bare of furniture. Craig strode in with purpose and paused to let his eyes adjust for a second. He was strangely disappointed. There was nothing at all. Almost nothing.
 
@@ -631,7 +631,7 @@ Craig looked up at him and tried to speak.
 
 “Never even invited me to lunch,” said Geoffrey, closing the door.
 
-## 6. 1987
+### 6. 1987
 
 “Lorna, we have to leave,” said Geoffrey, freely saying her name now. She flapped her hand back at him in a hang on, hang on gesture and took another couple of steps into the flat. It was completely bare, no furniture, no windows. A perfect square of wooden floor and white walls. Lorna noticed there were no electrical sockets, no light fixtures. The ceiling was so blandly similar to the floor that it would be difficult to tell which way was up in the absence of gravity.
 
