@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Toronto Waterfront Marathon 2025"
+date:   2025-04-26 11:23:36 +0000
+categories: running
+---
+
+Now I've done a winter training in -20 and blasting sleet, and summer training in +30 and sweltering humidity, I can safely say that the summer is harder. You can layer up in winter, but there's a limit to what you can take off in the summer without getting arrested or dying of blood loss. There were several training runs in July and August that I crashed on, or just bailed out early and went home. I would arrive back absolutely drenched in sweat, despite having left the house before 7am, or after the sun went down. Pretty much every single time I tried to go fast, as in under 4 mins/km, I would wipe out. I, to some extent, ignored this, seeing as the race itself was in October and would presumably be at _least_ under 20 degrees. It wasn't total carnage, "general aerobic" runs, ie just going out and coming back, were mostly fine even when 30+ km, and the Big Test, the 23km at marathon pace in mid September went kind of fine. I did stop during it though, having gotten a stitch and some breathing problems which I put down to the rib I broke in August.
+
+Nonetheless, I started last Sunday morning with a goal pace of four minutes flat per kilometre. That would get me in in something around 2:48:xx, leaving me enough buffer for the <2:50 I was aiming for. And for 29km, it went just fine. The start area of the race was absurdly crammed, and it took me ten or fifteen minutes of elbowing through crowds to even get into the red corral, and this left me near the back with the kind of people who absolutely have to be up front for the start and then amble slowly out. Consequently, I lost about 200m winding around people in the first kilometre alone. 
+
+The first, I dunno, 15k was unremarkable. Kept under 4 minutes, maybe a bit too much under in hindsight, I remember setting a 3:50 here and there. GPS went haywire under the Gardiner Expressway, as it usually does, and at this point the 21 and 42k runners split in different directions. I should mention that, by GPS, I did get a PR half marathon here, 1:23:32. Soon after this point, there's a diversion north up Bayview that kind of feels like running through a post-apocalyptic industrial area (belive me, I've trained here several times). Crowds are very thin, if they exist at all, and when we turned around to go back south, huge gusts of wind were coming in off the lake. The wheels were wobbling around this point.
+
+We emerged onto Lakeshore, my home ground, my standard training run location. This had the effect of being so familiar that I knew every step I would have to take to make it to the 33km turnaround point and it seemed really, really far away. Once I stopped a single time to walk, the game was up. I did it more and more times. I struggled to the turnaround with an insurmountable nine kilometres to go. Convinced myself to only stop once per km, and then basically failed to do that. [scene missing] and then I was at the finish line. Ended up, since I had built up so much in the first two thirds, on 2:53:34. If you told me in January I'd have ended the year with a 2:52 and 2:53 I'd have bitten your hand off (not sure what this would achieve, but I'd still do it), but they just came in the wrong order and I know I can do better. 
+
+I'm going to take the winter mostly off, where off means doing about 50km a week instead of 100, and I've signed up for Chicago next October to have another crack at 2:4x:xx. Some improvements to make:
+
+- Strength training. I pretty much neglected this for two months pre-race and the strength of my legs, or lack thereof, definitely came back to bite me.
+- Faster long runs. Instead of a 4:35-4:40/km, the Saturday mornings and midweek longs should be more like 4:25-4:30/km. This also means that recoveries should be slower, defintely above 5 mins.
+- Drop about 4kg _before_ starting training. 60kg is about as light as I should get before people would start to worry, but I have to be there before starting the block. It's, amusingly, not possible for me to lose any weight while running 100km a week, because of the amount of food required to keep me on my feet. This will start, realistically, after Christmas. 
+- Don't blow up during the next race, dumbass. 
