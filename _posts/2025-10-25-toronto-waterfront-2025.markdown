@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toronto Waterfront Marathon 2025"
-date:   2025-04-26 11:23:36 +0000
+date:   2025-10-25 19:25:03 +0000
 categories: running
 ---
 
