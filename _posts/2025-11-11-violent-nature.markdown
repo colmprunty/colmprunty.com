@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "In a Violent Nature"
+date:   2025-11-11 17:27:28 +0000
+categories: movies
+---
+
+In 2007, I wrote an article for Cracked.com ([still online!](https://www.cracked.com/article_15634_the-7-most-easily-escapable-movie-monsters.html), though all the pictures seem to be gone) about easily escapable movie monsters, in which I described the way to escape a Michael/Jason as "maintain[ing] a brisk walking pace in an open area such as a field". _In a Violent Nature_ is basically rural _Friday the 13th_, except from the perspective of a Michael/Jason as he walks quietly and very slowly around the woods, butchering people in imaginatively gory fashion. It's like someone sat down to prove that a large man walking very slowly could in fact catch and kill an entire group one by one.
+
+The more I think about it, the more I admire how well it stuck to the bit, even if that doesn't necessarily make me retrospectively love it. We get a completely generic group of twentysomethings staying in a cabin, but other than a ghost story/origin for our killer (Johnny, he wants his mother's locket back, the reason doesn't matter in the least), we see really nothing of their story, just bits and pieces through windows or from a distance as they are stalked. They are not the point of this. Likewise, we get a brief check in with someone who would be a main character in an inverted (ie traditional) movie, a sheriff who fought Johnny ten years before, knows all the lore and would guide our characters in their fight. Instead, we meet him for a few minutes before he gets paralysed and fed into a log splitter.
+
+Props to the gore effects, particularly the one girl doing yoga on the top of a cliff; Johnny punches through her spine, grabs her head and pulls it through her own torso before booting her over the edge. We get the log splitter mentioned above, a guy who gets his head severed at the jaw instead of the neck, axes thrown into heads. It's a feast if you're into that kind of thing (I am, still).
+
+The end works for me too, even if it's basically fifteen minutes where nothing happens. The final girl, whose name I forget, runs away after hilariously abandoning a plan to catch and burn Johnny after her accomplice is immediately murdered. She runs through the woods for what seems like hours before emerging onto a rural road where she gets picked up by a lady in a truck. This is almost precisely where _The Texas Chain Saw Massacre_ ends, but we get another ten minutes of the lady telling her a story about how her brother got attacked by a bear (possibly Johnny?) to keep her awake, and then they stop so the lady can put a tourniquet on the girl's leg. She (the girl) stares into the woods as this happens. I know - and she knows - that they've been driving in a truck for ten minutes, and that Johnny has never shown he can do anything other than walk, but we both fully expect him to appear at any moment. He doesn't, then it ends. 
