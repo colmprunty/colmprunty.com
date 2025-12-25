@@ -15,7 +15,11 @@ navigation:
   - title: Home
     url: /index.html
   - title: Writing
-    url: /writing.html
+    url: /writing
+  - title: Books
+    url: /books
+  - title: Movies
+    url: /movies
 
 social:
   twitter: colmprunty

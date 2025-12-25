@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Colm Prunty - Fiction
-permalink: /writing/
+title: Movies
+permalink: /movies/
 ---
-<div class="home" id="fiction">
-  {% assign fiction_posts = site.categories.fiction | sort: 'date' | reverse %}
-  {% if fiction_posts %}
+<div class="home" id="movies">
+  {% assign movies_posts = site.categories.movies | sort: 'date' | reverse %}
+  {% if movies_posts %}
     <ul class="post-list">
-      {% for post in fiction_posts %}
+      {% for post in movies_posts %}
         <li>
           <h2>
             <a href="{{ post.url | relative_url }}">
@@ -18,10 +18,14 @@ permalink: /writing/
           {% if post.date %}
             <small>{{ post.date | date: "%B %d, %Y" }}</small>
           {% endif %}
+
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
   {% else %}
-    <p>No posts in the “fiction” category yet.</p>
+    <p>No posts in the “movies” category yet.</p>
   {% endif %}
 </div>
