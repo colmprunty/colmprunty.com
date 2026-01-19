@@ -9,7 +9,7 @@ Some context [here](https://blog.colmprunty.com/blog/writing/)
 
 ### "The Interrogation"
 
-The small one slapped a picture down on the table in front of me. I was still a little dazed from the journey here - via several interactions with walls and floors and elbows, plus one bowl of hot soup somehow - but it shook my out of my stupor immediately.
+The small one slapped a picture down on the table in front of me. I was still a little dazed from the journey here - via several interactions with walls and floors and elbows, plus one bowl of hot soup somehow - but it shook me out of my stupor immediately.
 
 “What the actual fuck is this?” I asked as politely as I could.
 
