@@ -5,7 +5,7 @@ permalink: /shortwriting/
 ---
 <div class="home" id="shortwriting">
   {% assign shortwriting_posts = site.categories.shortwriting | sort: 'date' | reverse %}
-  {% if shortwriting %}
+  {% if shortwriting_posts %}
     <ul class="post-list">
       {% for post in shortwriting_posts %}
         <li>
