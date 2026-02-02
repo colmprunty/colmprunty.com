@@ -16,6 +16,8 @@ navigation:
     url: /index.html
   - title: Writing
     url: /writing
+  - title: Shorts
+    url: /shortwriting
   - title: Books
     url: /books
   - title: Movies

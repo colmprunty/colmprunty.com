@@ -1,0 +1,27 @@
+---
+layout: default
+title: Colm Prunty - Short Writing
+permalink: /shortwriting/
+---
+<div class="home" id="shortwriting">
+  {% assign shortwriting_posts = site.categories.shortwriting | sort: 'date' | reverse %}
+  {% if shortwriting %}
+    <ul class="post-list">
+      {% for post in shortwriting_posts %}
+        <li>
+          <h2>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h2>
+
+          {% if post.date %}
+            <small>{{ post.date | date: "%B %d, %Y" }}</small>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No posts in the shortwriting category yet.</p>
+  {% endif %}
+</div>
