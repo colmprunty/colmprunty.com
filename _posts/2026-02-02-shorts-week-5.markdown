@@ -5,9 +5,9 @@ date:   2026-02-02 07:00:00 +0000
 categories: shortwriting
 ---
 
-Some context [here](https://blog.colmprunty.com/blog/writing/). This got a little out of hand from the original 500 word target. It's a scary one so try read it somewhere dark and quiet. 
-
 ### "Dark House"
+
+Some context [here](https://blog.colmprunty.com/blog/writing/). This got a little out of hand from the original 500 word target. It's a scary one so try read it somewhere dark and quiet. 
 
 “Don’t you want to know how it works?” asked Mike. “And what’s inside? How can you resist?” He waved his arm towards the house.
 

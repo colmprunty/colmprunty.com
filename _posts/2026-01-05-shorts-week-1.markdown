@@ -5,9 +5,9 @@ date:   2026-01-05 08:00:00 +0000
 categories: shortwriting
 ---
 
-Some context [here](https://blog.colmprunty.com/blog/writing/)
-
 ### "The Ghost"
+
+Some context [here](https://blog.colmprunty.com/blog/writing/)
 
 The ghost has tried to communicate with me multiple times, with minimal tangible success as of yet. I note down these instances to try and discern a pattern. 
 

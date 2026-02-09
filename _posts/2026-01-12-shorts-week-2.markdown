@@ -5,9 +5,9 @@ date:   2026-01-12 07:00:00 +0000
 categories: shortwriting
 ---
 
-Some context [here](https://blog.colmprunty.com/blog/writing/)
-
 ### "It Doesn't Work"
+
+Some context [here](https://blog.colmprunty.com/blog/writing/)
 
 We sat down at the table on the outside of the cafe having not spoken for close to a decade. We each had a coffee, untouched. 
 

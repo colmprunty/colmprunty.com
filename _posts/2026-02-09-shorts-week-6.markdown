@@ -5,9 +5,9 @@ date:   2026-02-09 07:00:00 +0000
 categories: shortwriting
 ---
 
-Some context [here](https://blog.colmprunty.com/blog/writing/).
-
 ### "Prediction"
+
+Some context [here](https://blog.colmprunty.com/blog/writing/).
 
 Jen pushed the curtain aside and smirked. The inside of the little tent was exactly what she’d expected: fake candles (can’t burn the place down), a few pictures of nonspecific creatures and gods (probably AI at this stage, really) dotted around the place, the woman herself in flowing, colourful robes and a beatific smile. Even though really she’s a fraud and just after a few quid. Well, you pay for entertainment, may as well get a laugh out of it. 
 

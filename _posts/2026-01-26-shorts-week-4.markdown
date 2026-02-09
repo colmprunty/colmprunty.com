@@ -5,9 +5,9 @@ date:   2026-01-26 07:00:00 +0000
 categories: shortwriting
 ---
 
-Some context [here](https://blog.colmprunty.com/blog/writing/)
-
 ### "Proof of the Existence of God"
+
+Some context [here](https://blog.colmprunty.com/blog/writing/)
 
 The priest settled in beside Edgar, who rolled his eyes in response and pulled the covers up a bit. Edgar was in bed, though fully dressed, with the priest on a chair beside him. The two were perpendicular to each other.
 
