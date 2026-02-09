@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "The Week In"
+date:   2026-02-01 20:08:09 +0000
+categories: general
+---
+
+## Consumption
+
+### Music
+When I saw Mitski live last year, the support act was this guy Tamino. He was actually great live, and I saw him described as the "Belgian Jeff Buckley". Discovered he had a new album out recently, gave it a few spins but ended up going back to original Jeff Buckley. Oh well. 
+
+### Books
+Posted a few paragraphs minutes before this about **The Mill on the Floss**. Love George Eliot. We will return at some point with Daniel Deronda probably. Meanwhile I have a stack of sci-fi books I got for Christmas so it's time to start with **Echopraxia** by **Peter Watts**. The first 50 pages or so feature a guy hiding in a futuristic monastary to escape a vampire/fast zombie attack in the woods, while the science monks fire a controlled tornado at the attackers. In the recent past, an unexplained incident saw 60,000 alien satellites appear out of nowhere, send data back to who knows, and then burn up in orbit. I have absolutely no idea what is going to happen here. 
+
+### Movies
+I once again did not watch a single movie this week. Once again, bad me.
+
+### TV
+Rounding out my Netflix month I watched **Adolesence**, which was very good in parts (mainly episode 3, the interview) but so, so grim. So grim. Stay off the internet.  
+
+## Production
+
+### Running
+Thursday was nice (as in it was only -4) so I did a 20k out and back along the lake into the city. A little faster than planned (4:22/km) but the longest outdoor run I've done in a while, possibly since last year. Only saw one bunny, still cold for them. Yesterday was -22 so I stuck to the treadmill for that one. 
+
+### Writing
+Finished off one thing - coming tomorrow - and I have one about half finished which is I guess for next week, unless I'm bombarded by inspiration.
+
+### Code
+I guess this is productive? I continue to have a perpetual background worry that my profession will suddenly cease to exist, so I paid out real cash money for a year's Claude Pro subscription, and did a bunch of configuration on it. I then dug up an old project I had, a meal planning thing that had a backend API that worked, and a frontend that didn't because the Javascript ecosystem is a hellscape. I told Clause to write me a frontend to interact with the existing API and then wandered off to have a shower. When I was done, it worked perfectly. I'm either on the road to be a self-bootstrapped SaaS billionaire or living in a ravine, no middle ground here. 
