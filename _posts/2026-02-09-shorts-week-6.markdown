@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Short Writing Week 5"
+title:  "Short Writing Week 6"
 date:   2026-02-09 07:00:00 +0000
 categories: shortwriting
 ---
