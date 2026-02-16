@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "The Week In"
+date:   2026-02-15 21:46:58 +0000
+categories: general
+---
+
+## Consumption
+
+### Music
+I listened to a lot of **Mandy, Indiana**, on the advice of various reviews. It is very abrasive, like the fake future music they listen to in Children of Men. Then I got into it, then it felt kind of haunted and I stopped for a while. It's pretty good. Also some Nick Cave in the car, I don't think the children would like the above. 
+
+### Books
+ **Echopraxia** continues. A normal dude gets caught up in a trip to space with a bunch of godlike monks, a vampire, some zombie soldiers, his wife is dead (?) but still reachable in some kind of computer Heaven (?). They are going to a space station that was the point of communication for a ship that may or may not have made contact with aliens who appeared very briefly in the Earth's atmosphere and then never came back. At any given point I know about 80% of what's going on. 
+
+### Movies
+Movies! I didn't click through enough of Netflix's cancel screens evidently so I have it for another month. As such I watched **Train Dreams**, which was overtly manipulating my emotions as a middle aged guy on the verge of being left behind by the world, but it manipulated them really well. Next was **Smile 2**, which, well if you liked Smile 1, which I did, there's more. The lead performance is honestly top drawer. And lastly **Bacarau**, a Brazilian movie which is best if you watch not knowing anything about, but let's say the filmmakers enjoyed Assault on Precinct 13. 
+
+### TV
+I was told to watch **The Bridge** so I'm doing that. Seems a little bit like Woke Se7en currently, which is intriguing. 
+
+## Production
+
+### Running
+62km week, helped by being alone on Friday (also hence movies), so I knocked off work slightly early to catch the light and do a half marathon. It's not even that cold any more. 
+
+### Writing
+I have one thing ready, but this project has not really achieved its proper aim of getting me back to the longer stuff I actually want to be producing. I have a thing (tentatively called _Inifinity Departure Lounge_) that was actually going pretty well until I started firing out 3,000 word horror stories instead. Though who's to say the alternative wasn't just nothing at all. 
+
+### Code
+I actually did loads of stuff with my Claude subscription, small features on an old project, fixes upgrades. On the other hand, I learned nothing from it. My industry is in a strange place. 
