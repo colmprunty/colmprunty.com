@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Week In"
-date:   2026-02-22 21:05:21 +0000
+date:   2026-03-01 21:53:23 +0000
 categories: general
 ---
 
