@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "The Week In"
+date:   2026-03-08 20:39:23 +0000
+categories: general
+---
+
+## Consumption
+
+### Music
+There's a new **Mitski** album and I spent most of the week on it. I find myself coming in on the second half more often than not, but it's pretty good. The cover is a cat and there are at least two songs about cats. 
+
+### Books
+I was in the library where they have a cart full of withdrawn books for sale, so I got **Tomorrow and Tomorrow and Tomorrow** for 25c and since it was beside me when I finished Amusing Ourselves to Death, I just went straight on into it. It's very modern fiction so far, if you get what I mean. References to culture, pop- and otherwise, clear moral lines presenting as grey area. 
+
+### Movies
+Two weeks without watching bloody movie now. Almost did last night until the [power went out](https://www.thestar.com/news/gta/power-returns-to-east-end-toronto-after-13-000-left-in-the-dark-for-hours/article_66a2cce2-ed41-4f27-8d0b-b97d55742c17.html) in half the city for the hours of 8pm to 10pm, aka the watching-a-movie hour.
+
+### TV
+Finished **The Bridge**, of which I can safely say the writers had seen Seven once or twice. Finishing off season 3 of **Deadwood** before I forget what happened in season 1 and 2. And then, over a decade later, I can finally watch the wrap-up movie. 
+
+## Production
+
+### Running
+Decent amount, including 18km on Saturday with some hills. Bit of a small strain still in the top of my leg/hip/groin/stomach (it's hard to define), which remains from, I dunno, December? So I'm going to the physio on Tuesday. The physio will tell me to stop running, and I won't do it. 
+
+### Writing
+Once again, I am set up for tomorrow but I don't see this sustaining a whole year. 
+
+### Code
+I looked at the receipt for the week's grocery shopping and then spent 3 hours and all my daily Claude Code tokens making a Go API with some frontend that takes my grocery receipt, scans it, takes the text, saves the cost, weight and per-unit cost and plots it to a table. If I do this every week I can see in real time the increase in grocery prices. I have just this minute remembered I have literal years of Sainsbury's receipts from London that I could just feed in and see what happens. Fun. 
