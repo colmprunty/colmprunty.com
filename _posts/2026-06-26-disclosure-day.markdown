@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Disclosure Day"
+date:   2026-06-26 20:12:20 +0000
+categories: movies
+---
+
+I wasn't dying to see this, but I went because I haven't seen a Spielberg in the cinema since _Lincoln_ in 2012 and how many more will there realistically be? And also because it's not a sequel, franchise, IP, reboot, etc etc. Have to encourage that kind of thing. Spielberg is back on his aliens. I did not recognise Josh O'Connor until I saw his name in the credits, despite having seen his _Knives Out_ movie. He, Kellner, works for some private sector equivalent of the NSA, which exists, if I remember rightly, because then they aren't subject to government rules. Kellner sneaks a whole bunch of sensitive documents and videos out of his place of work, and goes on the run. Emily Blunt, Margaret, is a TV weather person. She has something of a mysterious role. They spend the whole time trying to escape Colin Firth, and there's an alien doodad that does whatever the plot needs it to. 
+
+This movie did not work for me, for two and a half reasons. The half reason, which I'm calling a half because really it's a me-issue, is the sub-plot about Jane, Kellner's girlfriend (and Bono's daughter) and her faith. She used to be a nun, or was in training to be one at least, and doesn't want the world to know about aliens in case everyone decides to worship them instead of God. To which I say, fine. At least in this universe, aliens are demonstrably real, though I'm not sure if I would worship them based solely on how much they seem to crash land their ships, like an interstellar Zog. She calls her former Mother Superior who says - paraphrasing - nah it's fine, God said we're only special on Earth. Problem instantly solved. 
+
+The first actual reason is: what the fuck was the aliens' scheme here? Give two random children special powers and then wait for ages until a very precise set of circumstances come together, hope nobody gets hurt or killed, and release to the whole world all the secret alien videos and documents that have been built up. Why wait? Is kidnapping children and ruining their childhood (or blanking it out) ok now? And in the end, when they're on TV, showing all these videos, after this big convoluted scheme, they roll out an actual living in-person grey alien. You know what would have the same effect on the world? Skipping 99% of the movie and rolling out an actual living in-person grey alien that you have stashed away. 
+
+Second reason is that the world isn't like this. We no longer, if we ever did, live in a world where you can put out a bunch of information and video footage and everyone comes together and accepts it. The ending is playing like a reverse-_Watchmen_, where instead of coming together as a species against an alien threat (that's faked), we come together as a species because cool, aliens are real. In the world we live in now, the aliens would be politicised instantly, a half dozen cults would spring up, 1/3 of people would just not accept it, 1/3 of people wouldn't give a shit. The ending is hopeful in a way that I'm just not. 
+
+There were some cool set pieces, things like that scene where they're climbing from the smashed car onto the moving train before the other train smashes them. Even then, I have a sense of "I'm doing a set piece now". Maybe I wasn't in the mood.
+
+That newsreader at the end though was really good, and nearly had me in tears. Good work.
